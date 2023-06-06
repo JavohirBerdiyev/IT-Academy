@@ -1,4 +1,4 @@
-# Frontend Developer Course Requirement
+# Frontend Pro Course Requirements
 
 To join the Frontend Developer Course, applicants are required to meet the following criteria:
 
